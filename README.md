@@ -1,5 +1,3 @@
-### Hi there 👋
-
 > Always go back and ask: How can we go about developing the developed world.
 
 - 🔭 I’m currently working on:
