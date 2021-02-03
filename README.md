@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**reyesGeorge/reyesGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Always go back and ask: How can we go about developing the developed world.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - a marketing sentiment dashboard utilizng the Google Knowledge API, Twitter API, Scrapy, Spacy, Dash and Flask
+  - utilizing more NumPy and Modin to speed up my Pandas data cleaning
+  - brushing up on my algorithms and data structures
+  - visualizing vecotrized entities/noun chunks
+
+- 🌱 I’m currently learning:
+  - working with Unsupervised machine learning for Clustering and Association for economic purposes
+  - different Supervised learning methods for forecasting, specifically for timeseries data
+
+- 💬 Ask me about:
+  - how to properly $pend taxpayers money to recover the American economy
+  - making artworks without lifting a brush
+  - vertical farming
+  - clean technologies
+  
+- 💰 Porfolio: (closed all positions due to volatile markets for now)
+  - up 52% in a 3-month spread utilizing proper diversification
+  - currently only holding RioCan a Canadian REIT 
+  - best long trades for the year [BNKU, DPST, SHIP, SQ, SNCA]
+  
+- ⚡ Fun fact:
+  - I could make 130 proof rum from scratch if I was stranded on an island 🥭🌴
