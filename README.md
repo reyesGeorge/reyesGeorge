@@ -1,10 +1,10 @@
 > Always go back and ask: How can we go about developing the developed world.
 
 - 🔭 I’m currently working on:
-  - a marketing sentiment dashboard utilizng the Google Knowledge API, Twitter API, Scrapy, Spacy, Dash and Flask
+  - a marketing sentiment dashboard utilizing the Google Knowledge API, Twitter API, Scrapy, Spacy, Dash and Flask
   - utilizing more NumPy and Modin to speed up my Pandas data cleaning
   - brushing up on my algorithms and data structures
-  - visualizing vecotrized entities/noun chunks
+  - visualizing vectorized entities/noun chunks
 
 - 🌱 I’m currently learning:
   - working with Unsupervised machine learning for Clustering and Association for economic purposes
@@ -24,3 +24,4 @@
   
 - ⚡ Fun fact:
   - I could make 130 proof rum from scratch if I was stranded on an island 🥭🌴
+  - If we flipped a coin and it landed on heads or tails I could build you a mobile application for iOS/Android faster than the Federal Reserve mints new coins
