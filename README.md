@@ -4,6 +4,7 @@
   - a marketing sentiment dashboard utilizing the Google Knowledge API, Twitter API, Scrapy, Spacy, Dash and Flask
   - utilizing more NumPy and Modin to speed up my Pandas data cleaning
   - brushing up on my algorithms and data structures
+  - an open source introduction into data-fueled economics
   - visualizing vectorized entities/noun chunks
 
 - 🌱 I’m currently learning:
