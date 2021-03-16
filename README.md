@@ -13,7 +13,7 @@
   - setting up GraphQL on Flask and FastAPI
 
 - 💬 **Ask me about:**
-  - how to properly $pend taxpayers money to recover the American economy
+  - how to properly spend taxpayers money to recover the American economy
   - making artworks without lifting a brush
   - vertical farming
   - clean technologies
