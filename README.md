@@ -12,3 +12,10 @@
   - making artworks without lifting a brush
   - vertical farming
   - clean technologies
+
+- 📫 Reach me at georgereyes103@gmail.com 
+  - Best languages: Python and Dart
+  - Frameworks: VueJS/Flutter/Dash/Svelte
+  - Clouds: Azure/Vercel 
+
+
