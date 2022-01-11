@@ -6,6 +6,7 @@
 
 - 🌱 **I’m currently learning:**
   - The React framework
+  - Serverless architectures for APIs
 
 - 💬 **Ask me about:**
   - making artworks without lifting a brush
