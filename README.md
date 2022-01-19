@@ -15,7 +15,7 @@
   - clean technologies
 
 - 📫 Reach me at georgereyes103@gmail.com 
-  - Best languages: Python and Dart
+  - Best languages: Python Dart and TypeScript
   - Frameworks: VueJS/Flutter/Dash/Flask/Svelte
   - Clouds: Azure/Vercel 
 
