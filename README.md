@@ -1,6 +1,6 @@
 > Always go back and ask: How can we go about developing the developed world.
 
-> All it takes to be a great human being is to be honest, not be envious and to have respect for others by showing some compassion every now and then.
+> All it takes to be a great human being is honesty, not to be envious and to have respect for others by showing some compassion every now and then.
 
 - 🏗 **I’m currently working on:**
   - an ESG reporting platform built in React utilizing a backend in Python/Azure
@@ -19,5 +19,3 @@
   - Frameworks: React/Flutter/VueJS/Dash
   - APIs: FastAPI/Flask
   - Clouds: Azure/Vercel
-
-
