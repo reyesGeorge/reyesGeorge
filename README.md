@@ -3,19 +3,20 @@
 > All it takes to be a great human being is honesty, not to be envious and to have respect for others by showing some compassion every now and then.
 
 - 🏗 **I’m currently working on:**
-  - an ESG reporting platform built in React utilizing a backend in Python/Azure
+  - a Crowdfunding platform to help early stage companies raise funding. Support me by signing up to our waitlist [here](https://cdn.forms-content.sg-form.com/96585dbc-33f1-11ee-aea8-ae08647af00c).
 
 - 🌱 **I’m currently learning:**
-  - Serverless architectures for APIs
+  - SEC/FINRA regulations
   - More math, to potentially pursue a Masters
 
 - 💬 **Ask me about:**
   - making artworks without lifting a brush
   - vertical farming
   - clean technologies
+  - my opinion on your business model
 
-- 📫 Reach me at georgereyes103@gmail.com 
+- 📫 Reach me at george@prolifvc.com 
   - Best languages: Python, Dart and TypeScript
-  - Frameworks: React/Flutter/VueJS/Dash
+  - Frameworks: React/Flutter/Dash
   - APIs: FastAPI/Flask
   - Clouds: Azure/Vercel
